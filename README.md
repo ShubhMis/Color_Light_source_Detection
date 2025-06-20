@@ -15,5 +15,9 @@ https://user-images.githubusercontent.com/your-username/demo.mp4 *(Add a short d
 ---
 
 ## 📂 Project Structure
+📦light-detection/
+┣ lightdetect.py # Main detection script
+┣ requirements.txt # Dependencies
+┗ README.md # You're here!
 
 
